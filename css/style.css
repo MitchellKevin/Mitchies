@@ -158,6 +158,16 @@ body {
     height: 15em;
     margin: 1em;
   }
+  .img-slider-wijn{
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: auto;
+  }
+  .img-slider-wijn img{
+    width: 10em;
+    height: 30em;
+    margin: 4em;
+  }
 
 
   /* Footer */
